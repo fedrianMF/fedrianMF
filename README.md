@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://github.com/fedrianMF/fedrianMF/blob/main/resources/img.png" alt="Portada Tecnológica" width: 50%; style="object-fit: cover; height: 300px;">
 </p>
 # ¡Bienvenido a mi perfil! :computer:
