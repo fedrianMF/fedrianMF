@@ -1,6 +1,6 @@
 <!-- Portada -->
 
-![Portada Tecnológica](ruta/a/tu/imagen.jpg)
+![Portada Tecnológica](https://github.com/fedrianMF/fedrianMF/blob/main/resources/img.png)
 
 # ¡Bienvenido a mi perfil! :computer:
 
