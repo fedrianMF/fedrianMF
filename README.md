@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/fedrianMF/fedrianMF/blob/main/resources/img.png" alt="Portada Tecnológica" width: 50%; style="object-fit: cover; height: 300px;">
 </p>
+
 # ¡Bienvenido a mi perfil! :computer:
 
 ¡Hola! Soy Felix A. Mamani Foronda, un apasionado de la creación de soluciones innovadoras. Aquí encontrarás información sobre mis habilidades técnicas en el ámbito de la tecnología.
