@@ -26,7 +26,6 @@ emails = ["me@fedrian.dev", "fedrian.mamani@gmail.com"]
 years = "5+ years"
 focus = "Web Development & Backend Engineering"
 specialties = ["Laravel/PHP", "REST APIs", "Real-time Apps"]
-
 fedrian@devbox:~$ tree ~/projects
 /home/fedrian/projects
 ├── 📁 Laravel
