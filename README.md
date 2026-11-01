@@ -1,41 +1,41 @@
-# Felix Mamani · Fedrian
+# Felix Mamani Foronda
 
-**Ingeniero de Sistemas** en La Paz, Bolivia 🇧🇴. Diseño, construyo y opero plataformas que conectan sistemas de distintas instituciones.
+**Ingeniero de Sistemas** · La Paz, Bolivia 🇧🇴
+Más de 6 años diseñando, desarrollando y operando sistemas, con enfoque en **gobierno digital e interoperabilidad**.
 
-En **SENAVEX** desarrollé el módulo de integración de Bolivia con **INTERCOM**, la plataforma de interoperabilidad de la Comunidad Andina: Bolivia fue el primer País Miembro en incorporarse, dentro del cronograma.
-
-[LinkedIn](https://www.linkedin.com/in/mf-fedrian/) · [Portfolio](https://portfolio.fedrian.dev) · [Email](mailto:fedrian.mamani@gmail.com)
+[fedrian.dev](https://fedrian.dev) · [LinkedIn](https://www.linkedin.com/in/mf-fedrian/) · [felix@fedrian.dev](mailto:felix@fedrian.dev)
 
 ---
 
-```toml
-fedrian@devbox:~$ cat ~/fedrian.conf
+### Experiencia destacada
 
-[identity]
-name     = "Felix Adrian Mamani Foronda"
-role     = "Ingeniero de Sistemas · Plataformas e interoperabilidad"
-location = "La Paz, Bolivia"
+En el **Servicio Nacional de Verificación de Exportaciones (SENAVEX)** lideré al equipo que desarrolló la **Plataforma TAYPI**, con la que se digitalizaron los trámites de exportación de Bolivia:
 
-[experience]
-years = "6+"
-focus = ["Interoperabilidad entre entidades", "APIs y microservicios", "Operación de plataformas"]
+- **INTERCOM (Comunidad Andina):** Bolivia fue el primer País Miembro en incorporarse al módulo de Certificado de Origen Digital, dentro del cronograma y con intercambio verificado de punta a punta con Colombia.
+- **ALADI:** homologación del Certificado de Origen Digital concluida con Paraguay y Brasil.
+- **Interoperabilidad nacional** con SEGIP, SEPREC, Impuestos Nacionales, Pasarela de Pagos del Estado y VUCE, mediante servicios web SOAP y REST con XML firmado digitalmente.
+- Mención especial del Director General de Comercio de la SGCAN por los desarrollos que llevaron a la marcha blanca del módulo COD de INTERCOM.
 
-[stack]
-backend   = ["Node.js", "TypeScript", "PHP", "Laravel", "NestJS", "Fastify"]
-frontend  = ["Vue 3", "React", "Tailwind CSS"]
-platform  = ["Docker", "Kubernetes", "Helm", "Argo CD", "Nginx", "APISIX"]
-identity  = ["Keycloak", "OAuth 2.0", "OpenID Connect"]
-messaging = ["RabbitMQ", "JSON Schema", "XSD"]
-data      = ["PostgreSQL", "MySQL", "Redis"]
-ops       = ["Linux", "GitHub Actions", "GitLab CI", "Prometheus", "Grafana", "Trivy"]
-security  = "NB/ISO/IEC 27001:2023"
-```
+Hoy, en **PULL S.R.L.**, desarrollo la interoperabilidad con METRC, el sistema regulatorio de trazabilidad que usan las autoridades estatales de Estados Unidos.
 
-### Proyectos destacados
+> El código de SENAVEX y PULL es institucional y privado. Lo que ves aquí son proyectos personales.
+
+### Proyectos
 
 | Proyecto | Qué es |
 |---|---|
-| [mini-intercom](https://github.com/fedrianMF/mini-intercom) | Plataforma de referencia para intercambiar documentos electrónicos entre entidades de distintos países: Keycloak, validación JSON Schema y XSD, RabbitMQ con reintentos, trazabilidad, Grafana, Helm y Argo CD. |
-| [recall](https://github.com/fedrianMF/recall) | Frontend en Vue 3 de un coach de League of Legends, con CI, CodeQL y desarrollo asistido por agentes de IA bajo reglas y pruebas. |
-| [soketi-laravel-demo](https://github.com/fedrianMF/soketi-laravel-demo) | Laravel con WebSockets en tiempo real usando Soketi y Laravel Echo. |
+| [mini-intercom](https://github.com/fedrianMF/mini-intercom) | Plataforma de referencia para intercambiar certificados de origen entre países: Keycloak, validación XSD y JSON Schema, RabbitMQ con reintentos y cola de mensajes muertos, servicio SOAP en C#/.NET con SQL Server, Prometheus y Grafana, Helm y Argo CD. |
+| [portfolio](https://github.com/fedrianMF/portfolio) | Mi sitio [fedrian.dev](https://fedrian.dev), servido en mi propio VPS (Debian, Dokploy, Docker Swarm, Traefik) con despliegue continuo. |
+| [recall](https://github.com/fedrianMF/recall) | Aplicación en Vue 3 con CI y CodeQL, desarrollada con agentes de IA bajo reglas, pruebas y revisión humana. |
 | [mini-chat](https://github.com/fedrianMF/mini-chat) | Chat en tiempo real con Laravel y Vue.js. |
+
+### Herramientas
+
+**Integración:** REST · SOAP · OpenAPI · XML con firma digital
+**Lenguajes:** Node.js · PHP (Laravel) · C# (.NET) · Java · Python · Vue.js · React
+**Datos:** PostgreSQL · MySQL · SQL Server
+**Infraestructura:** Linux · Docker · Kubernetes · Nginx · VPN · Keycloak (OAuth 2.0 / OIDC)
+**CI/CD:** Jenkins · GitLab CI · GitHub Actions
+**Seguridad:** controles ISO/IEC 27001 (programa IBNORCA, 180 h)
+
+Español nativo · Inglés C1 (EF SET)
