@@ -1,53 +1,41 @@
-# I'm Fedrian
+# Felix Mamani Foronda
 
-**+5 years of experience.** **Software Engineer & Fullstack Developer** from La Paz, Bolivia 🇧🇴.  
-Specialized in building unique web solutions and robust applications.
+**Ingeniero de Sistemas** · La Paz, Bolivia 🇧🇴  
+Más de 6 años diseñando, desarrollando y operando sistemas, con enfoque en **gobierno digital e interoperabilidad**.
 
-[LinkedIn](https://linkedin.com/in/mf-fedrian) | [GitHub](https://github.com/fedrianMF) | [Email](mailto:me@fedrian.dev)
+[fedrian.dev](https://fedrian.dev) · [LinkedIn](https://www.linkedin.com/in/mf-fedrian/) · [felix@fedrian.dev](mailto:felix@fedrian.dev)
 
 ---
 
-### 🖥️ fedrian@devbox:~
+### Experiencia destacada
 
-```toml
-fedrian@devbox:~$ cat ~/fedrian.conf
+En el **Servicio Nacional de Verificación de Exportaciones (SENAVEX)** lideré al equipo que desarrolló la **Plataforma TAYPI**, con la que se digitalizaron los trámites de exportación de Bolivia:
 
-# ══════════════════════════════════════════════════════
-# Personal Configuration File - Felix Adrian Mamani Foronda
-# ══════════════════════════════════════════════════════
+- **INTERCOM (Comunidad Andina):** Bolivia fue el primer País Miembro en incorporarse al módulo de Certificado de Origen Digital, dentro del cronograma y con intercambio verificado de punta a punta con Colombia.
+- **ALADI:** homologación del Certificado de Origen Digital concluida con Paraguay y Brasil.
+- **Interoperabilidad nacional** con SEGIP, SEPREC, Impuestos Nacionales, Pasarela de Pagos del Estado y VUCE, mediante servicios web SOAP y REST con XML firmado digitalmente.
+- Mención especial del Director General de Comercio de la SGCAN por los desarrollos que llevaron a la marcha blanca del módulo COD de INTERCOM.
 
-[identity]
-name = "Felix Adrian Mamani Foronda"
-role = "PHP/Laravel Developer | Fullstack Engineer"
-location = "La Paz, Bolivia 🇧🇴"
-emails = ["me@fedrian.dev", "fedrian.mamani@gmail.com"]
+Hoy, en **PULL S.R.L.**, desarrollo la interoperabilidad con METRC, el sistema regulatorio de trazabilidad que usan las autoridades estatales de Estados Unidos.
 
-[experience]
-years = "5+ years"
-focus = "Web Development & Backend Engineering"
-specialties = ["Laravel/PHP", "REST APIs", "Real-time Apps"]
-fedrian@devbox:~$ tree ~/projects
-/home/fedrian/projects
-├── 📁 Laravel
-│    ├── 📄 laracast-laravel-api-master-classv12
-│    ├── 📄 multi-tenant-saas
-│    ├── 📄 e-commerce-api
-│    └── 📄 soketi-laravel-demo
-├── 📁 NestJS
-│    ├── 📄 microservices-gateway
-│    └── 📄 authentication-service
-├── 📁 Vue
-│    ├── 📄 mini-chat
-│    ├── 📄 admin-dashboard
-│    └── 📄 portfolio-v3
-├── 📁 React
-│    ├── 📄 component-library
-│    └── 📄 web-analytics-app
-└── 📁 DevOps
-     ├── 🐳 docker-compose-stacks
-     ├── ⚙️ ci-cd-pipelines
-     └── 🔧 nginx-configs
+> El código de SENAVEX y PULL es institucional y privado. Lo que ves aquí son proyectos personales.
 
-5 directories, 14 files
+### Proyectos
 
-fedrian@devbox:~$ █
+| Proyecto | Qué es |
+|---|---|
+| [mini-intercom](https://github.com/fedrianMF/mini-intercom) | Plataforma de referencia para intercambiar certificados de origen entre países: Keycloak, validación XSD y JSON Schema, RabbitMQ con reintentos y cola de mensajes muertos, servicio SOAP en C#/.NET con SQL Server, Prometheus y Grafana, Helm y Argo CD. |
+| [portfolio](https://github.com/fedrianMF/portfolio) | Mi sitio [fedrian.dev](https://fedrian.dev), servido en mi propio VPS (Debian, Dokploy, Docker Swarm, Traefik) con despliegue continuo. |
+| [recall](https://github.com/fedrianMF/recall) | Aplicación en Vue 3 con CI y CodeQL, desarrollada con agentes de IA bajo reglas, pruebas y revisión humana. |
+| [mini-chat](https://github.com/fedrianMF/mini-chat) | Chat en tiempo real con Laravel y Vue.js. |
+
+### Herramientas
+
+- **Integración:** REST · SOAP · OpenAPI · XML con firma digital
+- **Lenguajes:** Node.js · PHP (Laravel) · C# (.NET) · Java · Python · Vue.js · React
+- **Datos:** PostgreSQL · MySQL · SQL Server
+- **Infraestructura:** Linux · Docker · Kubernetes · Nginx · VPN · Keycloak (OAuth 2.0 / OIDC)
+- **CI/CD:** Jenkins · GitLab CI · GitHub Actions
+- **Seguridad:** controles ISO/IEC 27001 (programa IBNORCA, 180 h)
+
+**Idiomas:** español nativo · inglés C1 (EF SET)
