@@ -1,6 +1,6 @@
 # Felix Mamani Foronda
 
-**Ingeniero de Sistemas** · La Paz, Bolivia 🇧🇴
+**Ingeniero de Sistemas** · La Paz, Bolivia 🇧🇴  
 Más de 6 años diseñando, desarrollando y operando sistemas, con enfoque en **gobierno digital e interoperabilidad**.
 
 [fedrian.dev](https://fedrian.dev) · [LinkedIn](https://www.linkedin.com/in/mf-fedrian/) · [felix@fedrian.dev](mailto:felix@fedrian.dev)
@@ -31,11 +31,11 @@ Hoy, en **PULL S.R.L.**, desarrollo la interoperabilidad con METRC, el sistema r
 
 ### Herramientas
 
-**Integración:** REST · SOAP · OpenAPI · XML con firma digital
-**Lenguajes:** Node.js · PHP (Laravel) · C# (.NET) · Java · Python · Vue.js · React
-**Datos:** PostgreSQL · MySQL · SQL Server
-**Infraestructura:** Linux · Docker · Kubernetes · Nginx · VPN · Keycloak (OAuth 2.0 / OIDC)
-**CI/CD:** Jenkins · GitLab CI · GitHub Actions
-**Seguridad:** controles ISO/IEC 27001 (programa IBNORCA, 180 h)
+- **Integración:** REST · SOAP · OpenAPI · XML con firma digital
+- **Lenguajes:** Node.js · PHP (Laravel) · C# (.NET) · Java · Python · Vue.js · React
+- **Datos:** PostgreSQL · MySQL · SQL Server
+- **Infraestructura:** Linux · Docker · Kubernetes · Nginx · VPN · Keycloak (OAuth 2.0 / OIDC)
+- **CI/CD:** Jenkins · GitLab CI · GitHub Actions
+- **Seguridad:** controles ISO/IEC 27001 (programa IBNORCA, 180 h)
 
-Español nativo · Inglés C1 (EF SET)
+**Idiomas:** español nativo · inglés C1 (EF SET)
