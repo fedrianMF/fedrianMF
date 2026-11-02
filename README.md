@@ -27,7 +27,7 @@ Hoy, en **PULL S.R.L.**, desarrollo la interoperabilidad con METRC, el sistema r
 | [mini-intercom](https://github.com/fedrianMF/mini-intercom) | Plataforma de referencia para intercambiar certificados de origen entre países: Keycloak, validación XSD y JSON Schema, RabbitMQ con reintentos y cola de mensajes muertos, servicio SOAP en C#/.NET con SQL Server, Prometheus y Grafana, Helm y Argo CD. |
 | [portfolio](https://github.com/fedrianMF/portfolio) | Mi sitio [fedrian.dev](https://fedrian.dev), servido en mi propio VPS (Debian, Dokploy, Docker Swarm, Traefik) con despliegue continuo. |
 | [recall](https://github.com/fedrianMF/recall) | Aplicación en Vue 3 con CI y CodeQL, desarrollada con agentes de IA bajo reglas, pruebas y revisión humana. |
-| [mini-chat](https://github.com/fedrianMF/mini-chat) | Chat en tiempo real con Laravel y Vue.js. |
+| [soketi-laravel-demo](https://github.com/fedrianMF/soketi-laravel-demo) | Notificaciones en tiempo real con Laravel, WebSockets (Soketi) y Docker. |
 
 ### Herramientas
 
